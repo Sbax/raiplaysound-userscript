@@ -6,3 +6,5 @@ Questo userscript aggiunge i pulsanti **feed** e **copia** alle pagine di Rai Pl
 **Mozilla Firefox**: Installa [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) o [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).  
 **Opera**: Installa [questa](https://addons.opera.com/en/extensions/details/install-chrome-extensions/) estensione, poi Tampermonkey o Violentmonkey dallo store di estensioni di Chrome.  
 **Microsoft Edge**: Installa [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) dal Repository di Add-On di Edge.
+
+Clicca [qui](https://github.com/Sbax/raiplaysound-userscript/raw/main/raiplaysound.user.js) per installare lo script.
